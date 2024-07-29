@@ -28,7 +28,7 @@ A web-based project management system that allows users to manage projects, task
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/project-management-system.git
+    git clone https://github.com/bpkgupta03/project-management.git
     cd project-management-system
     ```
 
