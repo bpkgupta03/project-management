@@ -29,7 +29,7 @@ A web-based project management system that allows users to manage projects, task
 
     ```bash
     git clone https://github.com/bpkgupta03/project-management.git
-    cd project-management-system
+    cd project-management
     ```
 
 2. **Install dependencies:**
